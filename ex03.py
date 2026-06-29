@@ -1,6 +1,5 @@
 """
-PHẦN 1: BÁO CÁO PHÂN TÍCH
-
+BÁO CÁO PHÂN TÍCH
 1. Input của bài toán là gì?
    - keyword (string, không bắt buộc): từ khóa tìm kiếm theo tên sản phẩm,
      truyền qua Query Parameter, ví dụ: /products?keyword=mouse
